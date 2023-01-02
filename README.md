@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zepto-Falah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python Programming Languague
+- 🌱 I’m currently learning Python Programming Language
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
